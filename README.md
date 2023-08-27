@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paluk</h1>
 <h3 align="center">A Data Science enthusiast from Singapore</h3>
 
+<h3 align="center">Final Year Aerospace Engineering student at NTU</h3>
+
 - 🔭 I’m currently working on **Environmental Features Recognition for Predictive Prosthesis Control**
 
 - 👨‍💻 All of my projects are available at [https://paluk-gupta-portfolio.netlify.app/](https://paluk-gupta-portfolio.netlify.app/)
