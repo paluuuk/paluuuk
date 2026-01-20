@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paluuuk" alt="paluuuk" /></a> </p>
 
-- 🔭 I’m currently working on **Environmental Features Recognition for Predictive Prosthesis Control**
+- 🔭 I’m recently launched Beehive, a networking app for Singapore university students, available on iOS and Android with 700+ users**
 
 - 👨‍💻 All of my projects are available at [https://paluk-gupta-portfolio.netlify.app/](https://paluk-gupta-portfolio.netlify.app/)
 
-- 📫 How to reach me **paluk001@e.ntu.edu.sg**
+- 📫 How to reach me **palukgupta01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
