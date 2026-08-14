@@ -57,4 +57,4 @@ My work has included cloud-platform automation, microservices, LLM-powered engin
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/paluk-gupta) · [Portfolio](https://paluk-gupta-portfolio.netlify.app/) · [Email](mailto:paluk.gupta@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/paluk-gupta) · [Portfolio](https://paluk-portfolio.netlify.app/) · [Email](mailto:paluk.gupta@outlook.com)
