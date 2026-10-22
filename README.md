@@ -1,60 +1,30 @@
 # Paluk Gupta
 
-**Software Engineer — AI Infrastructure & Platforms | Singapore**
+**Software Engineer · AI Infrastructure & Platforms · Singapore**
 
-I build software and machine-learning systems across **AI infrastructure, distributed platforms, computer vision, data engineering, and applied ML**.
+I build backend services, cloud-platform automation, data pipelines, and applied machine-learning systems. My work spans AI infrastructure at **Dell Technologies**, data engineering at **EY Singapore**, and computer-vision research with **NTU / RRIS**.
 
-Currently working on AI infrastructure and platform engineering at **Dell Technologies**, with experience spanning backend services, cloud platforms, LLM-powered automation, computer vision, and production data systems.
+## Selected engineering work
 
-## What I work with
+| Project | Technical focus | What is public |
+| --- | --- | --- |
+| [Exoskeleton terrain perception](https://github.com/paluuuk/Vision-based-Terrain-Recognition-for-Lower-Limb-Exoskeletons) | Stereo depth, inpainting, point-cloud processing, seven-class CNN inference | Research and camera-integration code |
+| [Beehive](https://github.com/paluuuk/beehive) | Flutter/Firebase mobile product for students and alumni across Singapore universities | Product and engineering overview; production code private |
+| [Deal Preflight](https://github.com/paluuuk/deal-preflight) | Acquisition due diligence, deterministic deal calculations, evidence tracking, versioned reports | Product workflow and engineering overview; production code private |
+| [Aerial road segmentation](https://github.com/paluuuk/Aerial-Image-Segmentation) | PyTorch U-Net, EfficientNet encoder, Dice + BCE objective, validation checkpointing | Guided notebook experiment and implementation notes |
+| [SenSync](https://github.com/paluuuk/SenSync) | Flutter caregiver-support prototype and offline WESAD stress classification | Mobile prototype and separate ML experiments |
+| [Satellite classification](https://github.com/paluuuk/Satellite_Image_Classification) | Four-band imagery, linear softmax baseline, Keras CNN | Experimental notebook with documented data and evaluation scope |
 
-**Software & Backend**  
-Python · Go · Java · C# · REST APIs · Microservices · Distributed Systems
+## Tools I work with
 
-**AI / ML**  
-LLMs · AI Agents · TensorFlow · Keras · PyTorch · scikit-learn · Computer Vision · CNNs · Model Inference
+- **Backend and platforms:** Python, Go, REST APIs, microservices, Docker, Kubernetes, Azure.
+- **AI and data:** LLM-assisted workflows, computer vision, TensorFlow/Keras, PyTorch, scikit-learn, SQL, ETL/ELT.
+- **Product engineering:** Flutter, Dart, Firebase, mobile applications.
 
-**Cloud & Infrastructure**  
-Kubernetes · Docker · Azure · AWS · GCP · GitHub Actions · CI/CD
-
-**Data**  
-SQL · Pandas · NumPy · ETL/ELT · Elasticsearch · Kibana
-
-## Featured Projects
-
-### 🦿 Exoskeleton Terrain Perception
-Real-time terrain-perception pipeline for a lower-limb exoskeleton using stereo depth sensing, 3D point-cloud processing, depth inpainting, temporal filtering, and CNN-based classification across seven terrain classes.
-
-**Stack:** Python · TensorFlow/Keras · OpenCV · ZED SDK · Point Clouds · Robotics  
-[View repository](https://github.com/paluuuk/Vision-based-Terrain-Recognition-for-Lower-Limb-Exoskeletons)
-
-### 🛰️ Aerial Road Segmentation
-Semantic-segmentation pipeline for detecting roads in aerial imagery using a U-Net architecture, data augmentation, custom PyTorch datasets/data loaders, hybrid Dice + BCE loss, checkpointing, and inference visualization.
-
-**Stack:** Python · PyTorch · U-Net · Computer Vision · Semantic Segmentation  
-[View repository](https://github.com/paluuuk/Aerial-Image-Segmentation)
-
-### 🧠 SenSync
-Cross-platform Flutter application exploring sensory-overload prediction from wearable signals, combining mobile health-data workflows, Firebase services, location/notification features, and a Random Forest ML pipeline.
-
-**Stack:** Flutter · Dart · Firebase · Python · scikit-learn · GCP  
-[View repository](https://github.com/paluuuk/SenSync)
-
-### 🌍 Satellite Image Classification
-CNN-based land-cover classification for satellite imagery with preprocessing, regularization, training, and model evaluation; achieved approximately **97% validation accuracy** during experimentation.
-
-**Stack:** Python · TensorFlow/Keras · CNNs · Remote Sensing  
-[View repository](https://github.com/paluuuk/Satellite_Image_Classification)
+The project READMEs distinguish completed implementations, research experiments, and production products whose source remains private.
 
 ## Background
 
-- **Software Engineer 2, AI Infrastructure & Platforms — Dell Technologies**
-- Previously **Technology Transformation — EY Singapore**
-- B.Eng. **Aerospace Engineering — Nanyang Technological University**
-- Former President, **Students for the Exploration and Development of Space (SEDS) Singapore**
+B.Eng. Aerospace Engineering, **Nanyang Technological University**. Former President, **SEDS Singapore**.
 
-My work has included cloud-platform automation, microservices, LLM-powered engineering workflows, ETL/data platforms, robotic perception, satellite analytics, and mobile applications.
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/paluk-gupta) · [Portfolio](https://paluk-portfolio.netlify.app/) · [Email](mailto:paluk.gupta@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/paluk-gupta/)
